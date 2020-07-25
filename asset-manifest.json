@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/CryptoWikiproject/static/css/main.8412d25a.chunk.css",
+    "main.js": "/CryptoWikiproject/static/js/main.6638213c.chunk.js",
+    "main.js.map": "/CryptoWikiproject/static/js/main.6638213c.chunk.js.map",
+    "runtime-main.js": "/CryptoWikiproject/static/js/runtime-main.b58c3bae.js",
+    "runtime-main.js.map": "/CryptoWikiproject/static/js/runtime-main.b58c3bae.js.map",
+    "static/css/2.b4d7a544.chunk.css": "/CryptoWikiproject/static/css/2.b4d7a544.chunk.css",
+    "static/js/2.d60fa935.chunk.js": "/CryptoWikiproject/static/js/2.d60fa935.chunk.js",
+    "static/js/2.d60fa935.chunk.js.map": "/CryptoWikiproject/static/js/2.d60fa935.chunk.js.map",
+    "index.html": "/CryptoWikiproject/index.html",
+    "precache-manifest.0c49cb1c17c0094246a39bc397fda7b5.js": "/CryptoWikiproject/precache-manifest.0c49cb1c17c0094246a39bc397fda7b5.js",
+    "service-worker.js": "/CryptoWikiproject/service-worker.js",
+    "static/css/2.b4d7a544.chunk.css.map": "/CryptoWikiproject/static/css/2.b4d7a544.chunk.css.map",
+    "static/css/main.8412d25a.chunk.css.map": "/CryptoWikiproject/static/css/main.8412d25a.chunk.css.map",
+    "static/js/2.d60fa935.chunk.js.LICENSE.txt": "/CryptoWikiproject/static/js/2.d60fa935.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b58c3bae.js",
+    "static/css/2.b4d7a544.chunk.css",
+    "static/js/2.d60fa935.chunk.js",
+    "static/css/main.8412d25a.chunk.css",
+    "static/js/main.6638213c.chunk.js"
+  ]
+}
